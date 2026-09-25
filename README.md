@@ -109,7 +109,7 @@ Each metric is one JavaScript object:
 | `stockCompare` | Two stacked bars with a delta bracket |
 | `tankDiagram` | A tank filling or draining (runway) |
 | `compareDiagram` | Cash vs accrual timelines side by side |
-| `gaugeMarkup` | The half-circle gauge on every card |
+| `gaugeMarkup` | The three-quarter-ring gauge on every card |
 
 Because the diagrams are functions of the inputs, they redraw on every slider tick with no canvas and no chart library.
 

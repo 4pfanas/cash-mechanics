@@ -14,6 +14,9 @@ A live field guide to the **20 numbers investors actually read**: CAC, LTV, Rule
 
 </div>
 
+**Live demo:** https://4pfanas.github.io/cash-mechanics/
+
+
 ---
 
 ## Table of contents
